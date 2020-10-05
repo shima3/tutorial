@@ -1,8 +1,9 @@
 # tutorial
 
-==インストール==
-===Windows===
-*[http://msysgit.github.io/ Git for Windows]のページでインストーラーをダウンロード、実行。
+## インストール
+
+Git for Windowsのページでインストーラーをダウンロード、実行。
+http://msysgit.github.io/
 
 ==初期設定==
 ===コンソール===

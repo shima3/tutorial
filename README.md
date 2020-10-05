@@ -9,8 +9,8 @@ http://msysgit.github.io/
 
 以下のコマンドを打ち込む
 
-  $ git config --global user.name "<gitで使用するユーザ名>"
-  $ git config --global user.email "<gitで使用するメールアドレス>"
+    $ git config --global user.name "<gitで使用するユーザ名>"
+    $ git config --global user.email "<gitで使用するメールアドレス>"
 
 ==リポジトリの作成==
 *リポジトリを作成したいディレクトリに移動し、コマンドを実行（例：gittestというリポジトリを作成）

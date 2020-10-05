@@ -8,6 +8,7 @@ http://msysgit.github.io/
 ## 初期設定==
 
 以下のコマンドを打ち込む
+
   $ git config --global user.name "<gitで使用するユーザ名>"
   $ git config --global user.email "<gitで使用するメールアドレス>"
 

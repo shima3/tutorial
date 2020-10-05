@@ -5,15 +5,11 @@
 Git for Windowsのページでインストーラーをダウンロード、実行。
 http://msysgit.github.io/
 
-==初期設定==
-===コンソール===
+## 初期設定==
+
 以下のコマンドを打ち込む
-<syntaxhighlight lang="bash">
-$ git config --global user.name "<gitで使用するユーザ名>"
-$ git config --global user.email "<gitで使用するメールアドレス>"
-# gitの出力を色付け
-$ git config --global color.ui auto
-</syntaxhighlight>
+  $ git config --global user.name "<gitで使用するユーザ名>"
+  $ git config --global user.email "<gitで使用するメールアドレス>"
 
 ==リポジトリの作成==
 *リポジトリを作成したいディレクトリに移動し、コマンドを実行（例：gittestというリポジトリを作成）

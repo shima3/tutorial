@@ -61,8 +61,6 @@ http://nwpct1.hatenablog.com/entry/2014/01/13/115232
 いまさら聞けないgitの使い方
 http://qiita.com/mountcedar/items/682743c95fd3b8fc274b
 
-==外部リンク==
-
 Git - 公式
 http://git-scm.com/
 

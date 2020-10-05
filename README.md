@@ -2,14 +2,7 @@
 
 ==インストール==
 ===Windows===
-*"[http://msysgit.github.io/ Git for Windows]"+"[https://code.google.com/p/tortoisegit/ TortoiseGit]"を使うのが定番
-**Cygwinのみでもいけるが、不便
-**TortoiseGitはエクスプローラーからgitを使うための拡張ソフトで、必要がないならいれなくてもよい。
 *[http://msysgit.github.io/ Git for Windows]のページでインストーラーをダウンロード、実行。
-**このときCygwinからでもgitを実行したい場合は、「コマンドプロンプトからも実行できるようにする」オプションをチェックしておく。
-*[https://code.google.com/p/tortoisegit/ TortoiseGit]ページの"Download TortoiseGit"の先にあるページからダウンロード
-**日本語の方がいい場合は、本体の下の方にある言語パックもダウンロード。本体インストール後に言語パックをインストールし、TortoiseGitの設定から言語を日本語に切り替える。
-*"git --version"でインストールを確認。
 
 ==初期設定==
 ===コンソール===
